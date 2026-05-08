@@ -1,0 +1,6 @@
+{
+  "name": "CamSight.io",
+  "description": "A live web camera viewing dashboard with bento grid layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
